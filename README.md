@@ -1,0 +1,1 @@
+This repository demonstrates two uncommon Python errors: OverflowError and RecursionError.  The `bug.py` file contains code that can trigger these errors under specific conditions.  The `bugSolution.py` file offers potential solutions and improved error handling.  Understanding these edge cases is crucial for writing robust and reliable Python code.
